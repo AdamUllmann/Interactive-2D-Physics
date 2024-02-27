@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3e48c9b4-a5d1-4ceb-b03a-b70fcc751aae": {
+      "ProjectGuid": "3e48c9b4-a5d1-4ceb-b03a-b70fcc751aae",
+      "DisplayName": "physics",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

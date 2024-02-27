@@ -1,6 +1,6 @@
 ﻿  physics.cpp
-D:\NEW DOWNLOADS\physics\physics\physics.cpp(37,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\NEW DOWNLOADS\physics\physics\physics.cpp(38,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\NEW DOWNLOADS\physics\physics\physics.cpp(48,59): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\NEW DOWNLOADS\physics\physics\physics.cpp(49,59): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
   Generating code
   1 of 1 functions (100.0%) were compiled.
